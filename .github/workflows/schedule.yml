@@ -13,5 +13,5 @@ jobs:
         uses: youngchurl/productive-box@master
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GIST_ID: c205f91b86aa8f9af6de8c7a68fc61f3
           TIMEZONE: Asia/Seoul
